@@ -1,0 +1,7 @@
+scheduler:
+  initial-delay-ms: 0       # in milliseconds
+  fixed-rate-ms:   5000    # in milliseconds
+
+logging:
+  level:
+    root: INFO
